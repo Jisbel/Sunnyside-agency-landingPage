@@ -1,0 +1,9 @@
+export { default as emily } from './image-emily.jpg';
+export { default as jennie } from './image-jennie.jpg';
+export { default as thomas } from './image-thomas.jpg';
+export { default as arrowDown } from './icon-arrow-down.svg';
+export { default as hamburger } from './icon-hamburger.svg';
+export { default as facebook } from './icon-facebook.svg';
+export { default as instagram } from './icon-instagram.svg';
+export { default as pinterest } from './icon-pinterest.svg';
+export { default as twitter } from './icon-twitter.svg';

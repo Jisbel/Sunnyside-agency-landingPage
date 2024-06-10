@@ -1,0 +1,9 @@
+export { default as desktopCone } from './image-gallery-cone.jpg';
+export { default as desktopMilk } from './image-gallery-milkbottles.jpg';
+export { default as desktopOrange } from './image-gallery-orange.jpg';
+export { default as desktopSugarCubes } from './image-gallery-sugarcubes.jpg';
+export { default as desktopDesign } from './image-graphic-design.jpg';
+export { default as desktopHeader } from './image-header.jpg';
+export { default as desktopPhotography } from './image-photography.jpg';
+export { default as desktopStandOut } from './image-stand-out.jpg';
+export { default as desktopTransform } from './image-transform.jpg';
