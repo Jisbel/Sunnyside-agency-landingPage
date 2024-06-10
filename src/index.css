@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Fraunces700";
+    src: url(./assets/fonts/fraunces/static/Fraunces_9pt_Soft-Bold.ttf);
+}
+@font-face {
+    font-family: "Fraunces900";
+    src: url(./assets/fonts/fraunces/static/Fraunces_9pt_Soft-Black.ttf);
+}
+@font-face {
+    font-family: "Barlow" ;
+    src: url(./assets/fonts/barlow/Barlow-SemiBold.ttf);
+}
