@@ -1,5 +1,7 @@
 import  Navbar  from "./components/Navbar";
 import Header from "./components/header";
+import Transform from "./components/transform";
+
 
 function App() {
 
@@ -7,6 +9,7 @@ function App() {
     <>
    <Navbar/>
    <Header/>
+   <Transform/>
    </>
   )
 }
