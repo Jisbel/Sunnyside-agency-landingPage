@@ -18,7 +18,7 @@ export default {
         // Neutral
         charcoal: 'hsl(212, 27%, 19%)',
         cadet: 'hsl(213, 9%, 39%)',
-        darkGrayishBlue: 'hsl(232, 10%, 55%)',
+        lightStaleGray: 'hsl(232, 10%, 55%)',
         grayishBlue: 'hsl(210, 4%, 67%)',
       },
       fontFamily: {
