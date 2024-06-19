@@ -17,11 +17,11 @@ const GraphicAndPhoto = () => {
           alt="Graphic Design"
           className="md:hidden  w-full h-auto"
         />
-        <div className="absolute bottom-0 left-0 w-full gap-10 pb-10 px-5 md:max-w-md mx-auto flex flex-col items-center text-center  ">
-          <p className="font-fraunces900 text-darkDesaturatedCyan text-4xl">
+        <div className="absolute bottom-0 left-0 w-full gap-10 pb-10 px-5 flex flex-col items-center text-center ">
+          <p className="font-fraunces900 text-darkDesaturatedCyan text-4xl ">
             Graphic Design
           </p>
-          <p className="font-barlow text-darkDesaturatedCyan text-lg">
+          <p className="font-barlow text-darkDesaturatedCyan text-lg max-w-md  ">
             Great design makes you memorable. We deliver artwork that
             underscores your brand message and captures potential clients’
             attention.
@@ -43,7 +43,7 @@ const GraphicAndPhoto = () => {
           <p className="font-fraunces900 text-darkBlue text-4xl">
           Photography
           </p>
-          <p className="font-barlow text-darkBlue text-lg">
+          <p className="font-barlow text-darkBlue text-lg max-w-sm  ">
           Increase your credibility by getting the most stunning, high-quality
           photos that improve your business image.
           </p>
