@@ -3,6 +3,7 @@ import Header from "./components/header";
 import Transform from "./components/transform";
 import Stand from "./components/stand";
 import GraphicAndPhoto from "./components/graphicAndPhoto";
+import Testimonial from "./components/testimonial";
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Transform/>
       <Stand/>
       <GraphicAndPhoto/>
+      <Testimonial/>
     </>
   )
 }
