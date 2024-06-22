@@ -4,6 +4,7 @@ import Transform from "./components/transform";
 import Stand from "./components/stand";
 import GraphicAndPhoto from "./components/graphicAndPhoto";
 import Testimonial from "./components/testimonial";
+import Galery from "./components/galery";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Stand/>
       <GraphicAndPhoto/>
       <Testimonial/>
+      <Galery/>
     </>
   )
 }
