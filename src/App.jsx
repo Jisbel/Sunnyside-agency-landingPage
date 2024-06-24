@@ -5,6 +5,7 @@ import Stand from "./components/stand";
 import GraphicAndPhoto from "./components/graphicAndPhoto";
 import Testimonial from "./components/testimonial";
 import Galery from "./components/galery";
+import Footer from "./components/footer";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <GraphicAndPhoto/>
       <Testimonial/>
       <Galery/>
+      <Footer/>
     </>
   )
 }
