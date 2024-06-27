@@ -1,12 +1,5 @@
-import { mobileMilk } from "../assets/images/mobile/index";
-import { mobileOrange } from "../assets/images/mobile/index";
-import { mobileCone } from "../assets/images/mobile/index";
-import { mobileSugarCubes } from "../assets/images/mobile/index";
-
-import { desktopMilk } from "../assets/images/desktop/index";
-import { desktopOrange } from "../assets/images/desktop/index";
-import { desktopCone } from "../assets/images/desktop/index";
-import { desktopSugarCubes } from "../assets/images/desktop/index";
+import { mobileMilk, mobileOrange, mobileCone, mobileSugarCubes } from "../assets/images/mobile/index";
+import { desktopMilk,desktopOrange, desktopCone, desktopSugarCubes } from "../assets/images/desktop/index";
 
 function Galery() {
   return (

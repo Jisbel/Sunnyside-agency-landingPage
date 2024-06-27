@@ -1,7 +1,8 @@
-import { desktopDesign } from "../assets/images/desktop/index";
-import { desktopPhotography } from "../assets/images/desktop/index";
-import { mobileDesign } from "../assets/images/mobile/index";
-import { mobilePhotography } from "../assets/images/mobile/index";
+import {
+  desktopDesign,
+  desktopPhotography,
+} from "../assets/images/desktop/index";
+import { mobileDesign, mobilePhotography } from "../assets/images/mobile/index";
 
 const GraphicAndPhoto = () => {
   return (
@@ -40,16 +41,13 @@ const GraphicAndPhoto = () => {
           className="md:hidden  w-full h-auto"
         />
         <div className="absolute bottom-0 left-0 w-full gap-10 pb-10 px-5 flex flex-col items-center text-center ">
-          <p className="font-fraunces900 text-darkBlue text-4xl">
-          Photography
-          </p>
+          <p className="font-fraunces900 text-darkBlue text-4xl">Photography</p>
           <p className="font-barlow text-darkBlue text-lg max-w-sm  ">
-          Increase your credibility by getting the most stunning, high-quality
-          photos that improve your business image.
+            Increase your credibility by getting the most stunning, high-quality
+            photos that improve your business image.
           </p>
         </div>
       </div>
-      
     </section>
   );
 };
